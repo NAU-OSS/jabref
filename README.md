@@ -32,19 +32,6 @@ It supports you in every step of your research work.
 - Automatically rename and move associated documents according to customizable rules
 - Keep track of what you read: ranking, priority, printed, quality-assured
 
-### Cite
-
-- Native BibTeX and Biblatex support
-- Cite-as-you-write functionality for external applications such as Emacs, Kile, LyX, Texmaker, TeXstudio, Vim and WinEdt.
-- Format references using one of thousands of built-in citation styles or create your own style
-- Support for Word and LibreOffice/OpenOffice for inserting and formatting citations
-
-### Share
-
-- Many built-in export options or create your export format
-- Library is saved as a simple text file, and thus it is easy to share with others via Dropbox and is version-control friendly
-- Work in a team: sync the contents of your library via a SQL database
-
 ## Installation
 
 Fresh development builds are available at [builds.jabref.org](https://builds.jabref.org/main/).
