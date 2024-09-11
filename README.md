@@ -22,15 +22,14 @@ It supports you in every step of your research work.
 
 ### Organize
 
-- Group your research into hierarchical collections and organize research items based on keywords/tags, search terms, or your manual assignments
-- Advanced search and filter features
-- Complete and fix bibliographic data by comparing with curated online catalogs such as Google Scholar, Springer, or MathSciNet
-- Customizable citation key generator
-- Customize and add new metadata fields or reference types
-- Find and merge duplicates
-- Attach related documents: 20 different kinds of documents supported out of the box, completely customizable and extendable
-- Automatically rename and move associated documents according to customizable rules
-- Keep track of what you read: ranking, priority, printed, quality-assured
+- Hierarchical Collections: Group your research into collections and organize based on keywords, tags, or manual assignments.
+- Advanced Search and Filters: Utilize powerful search and filtering options.
+- Data Validation: Compare and fix bibliographic data with online catalogs like Google Scholar, Springer, or MathSciNet.
+- Custom Citation Keys: Generate and customize citation keys.
+- Metadata and Reference Types: Add and customize metadata fields and reference types.
+- Duplicate Management: Find and merge duplicate entries.
+- Document Management: Attach and manage various document types and set rules for automatic renaming and moving.
+- Reading Tracking: Keep track of your reading progress and status (e.g., ranking, priority, printed).
 
 ### Cite
 
@@ -65,37 +64,12 @@ You can use our [GitHub issue tracker](https://github.com/JabRef/jabref/issues) 
 An explanation of donation possibilities and usage of donations is available at our [donations page](https://donations.jabref.org).
 
 ## Contributing
+Join our open-source community and contribute to JabRef:
 
-[![dev-docs](https://img.shields.io/badge/dev-docs-blue)](https://devdocs.jabref.org/)
-[![Help Contribute to Open Source](https://www.codetriage.com/jabref/jabref/badges/users.svg)](https://www.codetriage.com/jabref/jabref)
-[![Join the chat at https://gitter.im/JabRef/jabref](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/JabRef/jabref?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![OpenHub](https://www.openhub.net/p/jabref/widgets/project_thin_badge.gif)](https://www.openhub.net/p/jabref)
-[![Deployment Status](https://github.com/JabRef/jabref/workflows/Deployment/badge.svg)](https://github.com/JabRef/jabref/actions?query=workflow%3ADeployment)
-[![Test Status](https://github.com/JabRef/jabref/workflows/Tests/badge.svg)](https://github.com/JabRef/jabref/actions?query=workflow%3ATests)
-[![codecov.io](https://codecov.io/github/JabRef/jabref/coverage.svg?branch=master)](https://codecov.io/github/JabRef/jabref?branch=main)
-
-Want to be part of a free and open-source project that tens of thousands of scientists use every day?
-Check out the ways you can contribute, below:
-
-- Not a programmer? Help translating JabRef at [Crowdin](https://crowdin.com/project/jabref) or learn how to help at [contribute.jabref.org](https://contribute.jabref.org)
-- Quick overview on the architecture needed? Look at our [high-level documentation](https://devdocs.jabref.org/getting-into-the-code/high-level-documentation)
-- For details on how to contribute, have a look at our [guidelines for contributing](CONTRIBUTING.md).
-- You are welcome to contribute new features. To get your code included into JabRef, just [fork](https://help.github.com/en/articles/fork-a-repo) the JabRef repository, make your changes, and create a [pull request](https://help.github.com/en/articles/about-pull-requests).
-- To work on existing JabRef issues, check out our [issue tracker](https://github.com/JabRef/jabref/issues). New to open source contributing? Look for issues with the ["good first issue"](https://github.com/JabRef/jabref/labels/good%20first%20issue) label to get started.
-
-We view pull requests as a collaborative process.
-Submit a pull request early to get feedback from the team on work in progress.
-We will discuss improvements with you and agree to merge them once the [developers](https://github.com/JabRef/jabref/blob/main/MAINTAINERS) approve. Please also remember to discuss bigger changes early with the core developers to avoid a waste of time and work. Some fundamental design decisions can be found within our list of [Architectural Decision Records](https://devdocs.jabref.org/decisions/).
-
-If you want a step-by-step walk-through on how to set-up your workspace, please check [this guideline](https://devdocs.jabref.org/getting-into-the-code/guidelines-for-setting-up-a-local-workspace).
-
-To compile JabRef from source, you need a Java Development Kit 20 and `JAVA_HOME` pointing to this JDK.
-To run it, just execute `gradlew run`.
-When you want to develop, it is necessary to generate additional sources using `gradlew generateSource`
-and then generate the Eclipse `gradlew eclipse`.
-For IntelliJ IDEA, just import the project via a Gradle Import by pointing at the `build.gradle`.
-
-`gradlew test` executes all tests. We use [GitHub Actions](https://github.com/JabRef/jabref/actions) for executing the tests after each commit. For developing, it is sufficient to locally only run the associated test for the classes you changed. Github will report any other failure.
+Translators: Help us translate JabRef at Crowdin or learn more at contribute.jabref.org.
+Development: Refer to our high-level documentation and guidelines for contributing.
+Code Contributions: Fork the repository, make changes, and create a pull request.
+Issue Tracker: Work on existing issues from our issue tracker. Look for "good first issue" to get started.
 
 ## Sponsoring
 
