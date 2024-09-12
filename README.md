@@ -22,15 +22,13 @@ It supports you in every step of your research work.
 
 ### Organize
 
-- Group your research into hierarchical collections and organize research items based on keywords/tags, search terms, or your manual assignments
-- Advanced search and filter features
-- Complete and fix bibliographic data by comparing with curated online catalogs such as Google Scholar, Springer, or MathSciNet
-- Customizable citation key generator
-- Customize and add new metadata fields or reference types
-- Find and merge duplicates
-- Attach related documents: 20 different kinds of documents supported out of the box, completely customizable and extendable
-- Automatically rename and move associated documents according to customizable rules
 - Keep track of what you read: ranking, priority, printed, quality-assured
+- Utilize advanced search and filtering options to efficiently locate and refine research items.
+- Ensure accuracy and completeness of bibliographic information by cross-referencing with curated online catalogs such as Google Scholar, Springer, or MathSciNet.
+- Customize and generate citation keys according to your preferred format and style.
+- Add and modify metadata fields or reference types to suit your needs.
+- Identify and merge duplicate entries to maintain a clean and organized database.
+- Attach related documents: Supports 20 different types of documents by default, with options for customization and extension.
 
 ### Cite
 
