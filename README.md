@@ -6,10 +6,7 @@ Stay on top of your literature: JabRef helps you to collect and organize sources
 
 ![main table](docs/images/jabref-mainscreen.png)
 
-## Features
 
-JabRef is available free of charge and is actively developed.
-It supports you in every step of your research work.
 
 ### Collect
 
@@ -19,18 +16,11 @@ It supports you in every step of your research work.
 - Fetch complete bibliographic information based on ISBN, DOI, PubMed-ID and arXiv-ID
 - Extract metadata from PDFs
 - Import new references directly from the browser with one click using the [official browser extension](https://github.com/JabRef/JabRef-Browser-Extension) for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/jabref/?src=external-github),  [Chrome](https://chrome.google.com/webstore/detail/jabref-browser-extension/bifehkofibaamoeaopjglfkddgkijdlh), [Edge](https://microsoftedge.microsoft.com/addons/detail/pgkajmkfgbehiomipedjhoddkejohfna), and [Vivaldi](https://chrome.google.com/webstore/detail/jabref-browser-extension/bifehkofibaamoeaopjglfkddgkijdlh)
+## Features
 
-### Organize
+JabRef is available free of charge and is actively developed.
+It supports you in every step of your research work.
 
-- Group your research into hierarchical collections and organize research items based on keywords/tags, search terms, or your manual assignments
-- Advanced search and filter features
-- Complete and fix bibliographic data by comparing with curated online catalogs such as Google Scholar, Springer, or MathSciNet
-- Customizable citation key generator
-- Customize and add new metadata fields or reference types
-- Find and merge duplicates
-- Attach related documents: 20 different kinds of documents supported out of the box, completely customizable and extendable
-- Automatically rename and move associated documents according to customizable rules
-- Keep track of what you read: ranking, priority, printed, quality-assured
 
 ### Cite
 
@@ -45,14 +35,18 @@ It supports you in every step of your research work.
 - Library is saved as a simple text file, and thus it is easy to share with others via Dropbox and is version-control friendly
 - Work in a team: sync the contents of your library via a SQL database
 
-## Installation
+  ### Organize
 
-Fresh development builds are available at [builds.jabref.org](https://builds.jabref.org/main/).
-The [latest stable release is available at FossHub](https://downloads.jabref.org/).
+- Group your research into hierarchical collections and organize research items based on keywords/tags, search terms, or your manual assignments
+- Advanced search and filter features
+- Complete and fix bibliographic data by comparing with curated online catalogs such as Google Scholar, Springer, or MathSciNet
+- Customizable citation key generator
+- Customize and add new metadata fields or reference types
+- Find and merge duplicates
+- Attach related documents: 20 different kinds of documents supported out of the box, completely customizable and extendable
+- Automatically rename and move associated documents according to customizable rules
+- Keep track of what you read: ranking, priority, printed, quality-assured
 
-Please see our [Installation Guide](https://docs.jabref.org/installation).
-
-## Bug Reports, Suggestions, Other Feedback
 
 [![Donation](https://img.shields.io/badge/donate%20to-jabref-orange.svg)](https://donations.jabref.org)
 [![PayPal Donate](https://img.shields.io/badge/donate-paypal-00457c.svg?logo=paypal&style=flat-square)](https://paypal.me/JabRef)
@@ -63,6 +57,15 @@ If you need support in using JabRef, please read [the documentation](https://doc
 You can use our [GitHub issue tracker](https://github.com/JabRef/jabref/issues) to file bug reports.
 
 An explanation of donation possibilities and usage of donations is available at our [donations page](https://donations.jabref.org).
+
+## Installation
+
+Fresh development builds are available at [builds.jabref.org](https://builds.jabref.org/main/).
+The [latest stable release is available at FossHub](https://downloads.jabref.org/).
+
+Please see our [Installation Guide](https://docs.jabref.org/installation).
+
+## Bug Reports, Suggestions, Other Feedback
 
 ## Contributing
 
